@@ -8,7 +8,7 @@ This plugin allows you to set up "permission items", so that items which match c
 
 ### [Latest Version](https://github.com/RayzrDev/PermissionItems/releases)
 
-### [Dev Builds](http://ci.rayzr.tech/job/PermissionItems)
+### [Dev Builds](http://ci.rayzr.dev/job/PermissionItems)
 
 ## Installation
 
